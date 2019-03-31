@@ -1,3 +1,6 @@
 <resources>
-    <string name="app_name">MsgSharingApp</string>
+    <string name="app_name">Message Sharing App</string>
+    <string name="buttonText">Show Toast</string>
+    <string name="button2Text">Send Data to Next Activity</string>
+    <string name="hintText">Enter Your Message</string>
 </resources>
